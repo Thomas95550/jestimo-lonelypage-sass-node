@@ -24,7 +24,7 @@ Cloner le directement à racine de votre `local serveur exemple: wamp`.
 
 *www dossier du serveur local
 ```bash
-$:\www\> git clone git@github.com:Thomas95550/jestimo-lonelypage-sass-node.git
+$:\www> git clone git@github.com:Thomas95550/jestimo-lonelypage-sass-node.git
 ```
 
 **2. Installer les packages/dépendances** 
@@ -32,7 +32,7 @@ $:\www\> git clone git@github.com:Thomas95550/jestimo-lonelypage-sass-node.git
 Entrer dans le dossier du projet puis executer via `node` la commande suivante:
 
 ```bash
-$:\www\> cd jestimo-lonelypage-sass-node
+$:\www> cd jestimo-lonelypage-sass-node
 $:\www\jestimo-lonelypage-sass-node> npm install
 ```
 
