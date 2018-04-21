@@ -40,6 +40,11 @@ ul {
   }
 }
 
+.no-gutters>.col, .no-gutters>[class*=col-] {
+  padding-right: 5px;
+  padding-left: 5px;
+}
+
 #central-container {
   min-height: 55vh;
   display: flex;
