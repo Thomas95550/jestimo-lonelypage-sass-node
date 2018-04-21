@@ -1,9 +1,15 @@
 Jestimo - Prérequis - Installation
 ======================
 
-#Test Markup Validation Service
+Test W3C Html Service
+----------------
 - Html validator [lien](https://validator.w3.org/#validate_by_input)
 - Copie du fichier index.html dans le champs du site.
+
+Test W3C CSS Validation Service
+-----------------
+- CSS validator [lien](https://jigsaw.w3.org/css-validator/#validate_by_input)
+- Copie du fichier assets/css/main.css dans le champs du site.
 
 **Prérequis**
 - ([NodeJS/NPM](https://nodejs.org/en/)) Obligatoire.
@@ -13,7 +19,7 @@ Jestimo - Prérequis - Installation
 - Ou à l'aide de PHP lancez un serveur local via un terminal.
 - ([cmder](http://cmder.net/)) Emulateur de terminal optionnel.
 
-#Technologie utiliser
+**Technologie utiliser**
 - Préprocesseur : **scss** 
 - **node** pour generer automatiquement mon css a partir de mon fichier scss
 - **Bootstrap**
