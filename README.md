@@ -33,8 +33,8 @@ $:\htdocs> git clone git@github.com:Thomas95550/jestimo-lonelypage-sass-node.git
 **Serveur local Php**
  - Dézipper le projet.
  - Entrez dedans puis lancez le serveur.
- - ```bash $:\> cd jestimo-lonelypage-sass-node/```
- - ``` $:\jestimo-lonelypage-sass-node> Php -S localhost:8000```
+ - ```$:\> cd jestimo-lonelypage-sass-node/```
+ - ```$:\jestimo-lonelypage-sass-node> Php -S localhost:8000```
 - Ouvrez un nouveau terminal pour la suite.
 
 **2. Installez les packages/dépendances** 
@@ -92,7 +92,7 @@ $:\htdocs\jestimo-lonelypage-sass-node>                 <- macOsx
 **Serveur local Php**
  - Dézipper le projet.
  - Entrez dedans puis lancez le serveur.
- - ```bash $:\> cd jestimo-lonelypage-sass-node/```
+ - ```$:\> cd jestimo-lonelypage-sass-node/```
  - ```$:\jestimo-lonelypage-sass-node> Php -S localhost:8000```
 - Ouvrez un nouveau terminal pour la suite.
 
