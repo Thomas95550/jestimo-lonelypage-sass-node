@@ -6,10 +6,8 @@ Jestimo - Prérequis - Installation
 - ([GIT](https://git-scm.com/downloads)) Optionnel.
 - Serveur local pour [Windows](http://www.wampserver.com/).
 - Serveur local pour [MAC/OSX](https://www.mamp.info/en/downloads/).
-- Ou à l'aide de PHP lancez un serveur local via le terminal ou ([cmder](http://cmder.net/)) utilisez cet commande: 
-- - ````php -S localhost:8000/````.
-- - votre port sera alors 8000 et votre serveur sera à l'adresse de ````http://localhost:8000/````.
-- ([cmder](http://cmder.net/)) Emulateur de console/terminal optionnel.
+- Ou à l'aide de PHP lancez un serveur local via un terminal.
+- ([cmder](http://cmder.net/)) Emulateur de terminal optionnel.
 
 Telecharger via GIT et installation via node
 --------------------
@@ -32,8 +30,7 @@ $:\www> git clone git@github.com:Thomas95550/jestimo-lonelypage-sass-node.git   
 $:\htdocs> git clone git@github.com:Thomas95550/jestimo-lonelypage-sass-node.git    <- macOsx
 ```
 
-**Php -S méthode**
-
+**Serveur local Php**
  - Dézipper le projet.
  - Entrez dedans puis lancez le serveur.
 ```bash
@@ -93,12 +90,14 @@ Il vous faudra alors le dézipper sur le bon serveur,
 $:\www\jestimo-lonelypage-sass-node>                    <- windows
 $:\htdocs\jestimo-lonelypage-sass-node>                 <- macOsx
 ```
-- **Méthode serveur local**
- - - Dézipper le projet.
- - - Entrez dedans puis lancez le serveur.
+**Serveur local Php**
+ - Dézipper le projet.
+ - Entrez dedans puis lancez le serveur.
 ```bash
+$:\> cd jestimo-lonelypage-sass-node/
 $:\jestimo-lonelypage-sass-node> Php -S localhost:8000  <- Serveur local
 ```
+- Ouvrez un nouveau terminal pour la suite.
 
 **2. Installez les packages/dépendances** 
 
@@ -107,7 +106,7 @@ Entrer dans le dossier du projet puis executez via `node` la commande suivante:
 ```bash
 $:\www\jestimo-lonelypage-sass-node> npm install         <- windows
 $:\htdocs\jestimo-lonelypage-sass-node> npm install      <- macOsx
-$:\jestimo-lonelypage-sass-node> npm install     <- Serveur local, nécessite 2 terminal
+$:\jestimo-lonelypage-sass-node> npm install     <- Nouveau terminal
 ```
 
 Les dependances sont installées.
