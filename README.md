@@ -27,13 +27,14 @@ $:\www> git clone git@github.com:Thomas95550/jestimo-lonelypage-sass-node.git   
 $:\htdocs> git clone git@github.com:Thomas95550/jestimo-lonelypage-sass-node.git    <- macOsx
 ```
 
-si ne voulant pas mettre le projet sous le dossier racine de wamp ou mamp, vous pouvez toujours utiliser la méthode ci-dessous
-- - **Création d'un serveur local php à la racine du dossier de projet si le projet n'est pas dans le dossier racine d'un serveur**
-- - Dézipper le projet.
-- - Entrez dedans puis lancez le serveur.
-- - ```$:\> cd jestimo-lonelypage-sass-node/```
-- - ```$:\jestimo-lonelypage-sass-node> Php -S localhost:8000```
-- - Ouvrez un nouveau terminal pour la suite.
+**Serveur php manuel**
+
+- ```$:\dossier> git clone git@github.com:Thomas95550/jestimo-lonelypage-sass-node.git```
+- Dézipper le projet.
+- Entrez dedans puis lancez le serveur.
+- ```$:\dossier> cd jestimo-lonelypage-sass-node```
+- ```$:\jestimo-lonelypage-sass-node> Php -S localhost:8000```
+- Ouvrez un nouveau terminal pour la suite.
 
 **2. Installez les packages/dépendances** 
 
@@ -88,14 +89,12 @@ $:\www\jestimo-lonelypage-sass-node>                    <- windows
 $:\htdocs\jestimo-lonelypage-sass-node>                 <- macOsx
 ```
 
-si ne voulant pas mettre le projet sous le dossier racine de wamp ou mamp, vous pouvez toujours utiliser la méthode ci-dessous
-- - **Création d'un serveur local php à la racine du dossier de projet si le projet n'est pas dans le dossier racine d'un serveur**
-- - Dézipper le projet.
-- - Entrez dedans puis lancez le serveur.
-- - ```$:\> cd jestimo-lonelypage-sass-node/```
-- - ```$:\jestimo-lonelypage-sass-node> Php -S localhost:8000```
-- - Ouvrez un nouveau terminal pour la suite.
+**Serveur php manuel**
 
+- Dézipper le projet.
+- Entrez dedans puis lancez le serveur.
+- ```$:\jestimo-lonelypage-sass-node> Php -S localhost:8000```
+- Ouvrez un nouveau terminal pour la suite.
 **2. Installez les packages/dépendances** 
 
 Entrer dans le dossier du projet puis executez via `node` la commande suivante:
