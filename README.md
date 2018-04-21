@@ -2,7 +2,7 @@ Jestimo - LonelyPage
 ======================
 Il est obliger d'avoir node d'installer sur sont ordinateur, les liens seront dans les prérequis
 
-Installation du projet via git suivez jusqu'au bout, si téléchargé sous zip il vous faudra vous rendre directement à l'installation des packages / dépendences voir [*prérequis]().
+Installation du projet via git suivez jusqu'au bout, si téléchargé sous zip il vous faudra vous rendre directement à l'installation des packages / dépendences voir **prérequis***.
 
 Prérequis important
 -----------
