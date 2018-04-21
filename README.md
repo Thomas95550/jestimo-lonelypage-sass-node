@@ -48,8 +48,10 @@ Il suffit d'accéder a l'url de la page.
 
 **3. Ouverture de la page**
 
-Assurez-vous que votre serveur sois bien allumer et acceder a cet url: [url-Test](http://localhost/jestimo-lonelypage-sass-node)
+Assurez-vous que votre serveur sois bien allumer et acceder a cet url: [wampTestUrl](http://localhost/jestimo-lonelypage-sass-node)
 ```bash
+http://localhost/jestimo-lonelypage-sass-node
+ou pour un port spécifique
 http://localhost:PORT/jestimo-lonelypage-sass-node
 ```
 
@@ -79,7 +81,9 @@ Il suffit d'accéder a l'url de la page.
 
 **3. Ouverture de la page**
 
-Assurez-vous que votre serveur sois bien allumer et acceder a cet url: [url-Test](http://localhost/jestimo-lonelypage-sass-node)
+Assurez-vous que votre serveur sois bien allumer et acceder a cet url: [wampTestUrl](http://localhost/jestimo-lonelypage-sass-node)
 ```bash
+http://localhost/jestimo-lonelypage-sass-node
+ou pour un port spécifique
 http://localhost:PORT/jestimo-lonelypage-sass-node
 ```
