@@ -1,7 +1,7 @@
 Jestimo - LonelyPage
 ======================
 
-Installation du projet via git suivez jusqu'au bout, si télecharger sous zip il vous faudra vous rendre directement à l'installation des packages / dépendencies (si vous avez node).
+Installation du projet via git suivez jusqu'au bout, si téléchargé sous zip il vous faudra vous rendre directement à l'installation des packages / dépendencies (si vous avez node).
 
 Prérequis
 -----------
@@ -17,9 +17,9 @@ Telecharger via GIT et installation via node
 
 - L'installation via git nécessite [GIT](https://git-scm.com/downloads) 
  
-**1. Etape cloner le projet**
+**1. Etape clonez le projet**
  
-Cloner le directement à racine de votre `serveur local` 
+Cloner le directement à la racine de votre `serveur local` 
 
 exemple: avec wamp ``$:\www> ``. 
 
@@ -28,20 +28,21 @@ exemple: avec wamp ``$:\www> ``.
 $:\www> git clone git@github.com:Thomas95550/jestimo-lonelypage-sass-node.git
 ```
 
-**2. Installer les packages/dépendances** 
+**2. Installez les packages/dépendances** 
 
-Entrer dans le dossier du projet puis executer via `node` la commande suivante:
+Entrer dans le dossier du projet puis executez via `node` la commande suivante:
 
 ```bash
 $:\www> cd jestimo-lonelypage-sass-node
 $:\www\jestimo-lonelypage-sass-node> npm install
 ```
 
-Les dépendances sont installer il suffit d'accedez a l'url de la page.
+Les dependances sont installées.
+Il suffit d'accéder a l'url de la page.
 
 **3. Ouverture de la page**
 
-Assurez-vous que votre serveur sois bien allumer et acceder a cet url:
+Assurez-vous que votre serveur sois bien allumer et accéder à cet url:
 ```bash
 http://localhost:PORT/jestimo-lonelypage-sass-node
 ```
@@ -49,7 +50,7 @@ http://localhost:PORT/jestimo-lonelypage-sass-node
 Télecharger et installer via node
 ---------------------------------
 
-**1 .Telecharger le projet**
+**1 .Téléchargez le projet**
 
 En cliquant  [ici](https://github.com/Thomas95550/jestimo-lonelypage-sass-node/archive/master.zip)
 
@@ -58,16 +59,17 @@ dézipper le à la racine de votre serveur local exemple `wamp`, l'architecture 
 $:\www\jestimo-lonelypage-sass-node>
 ```
 
-**2. Installer les packages/dépendances** 
+**2. Installez les packages/dépendances** 
 
-Entrer dans le dossier du projet puis executer via `node` la commande suivante:
+Entrer dans le dossier du projet puis executez via `node` la commande suivante:
 
 ```bash
 $:\www>
 $:\www\jestimo-lonelypage-sass-node> npm install
 ```
 
-Les dépendances sont installer il suffit d'accedez a l'url de la page.
+Les dependances sont installées.
+Il suffit d'accéder a l'url de la page.
 
 
 **3. Ouverture de la page**
