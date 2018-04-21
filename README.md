@@ -15,7 +15,7 @@ Prérequis important
 - - Ou à l'aide de PHP lancez un serveur local via le terminal ou [cmder](http://cmder.net/)) utiliser cet commande: 
 - - ````php -S localhost:8000/````
 - - votre port sera alors 8000 et votre serveur sera à l'adresse de ````http://localhost:8000/````
-- Une console | [cmder](http://cmder.net/) | Emulateur de terminal (Optionnel\ Invitée de commande sinon)
+- Une console | [cmder](http://cmder.net/) | Emulateur de terminal (Optionnel\ Terminal)
 
 Telecharger via GIT et installation via node
 --------------------
