@@ -38,7 +38,12 @@ $:\www\jestimo-lonelypage-sass-node> npm install
 
 Les dépendances sont installer il suffit d'accedez a l'url de la page.
 
-#####http://localhost:PORT/jestimo-lonelypage-sass-node
+**3. Ouverture de la page**
+
+Assurez-vous que votre serveur sois bien allumer et acceder a cet url:
+```bash
+http://localhost:PORT/jestimo-lonelypage-sass-node
+```
 
 Télecharger et installer via node
 ---------------------------------
@@ -63,4 +68,10 @@ $:\www\jestimo-lonelypage-sass-node> npm install
 
 Les dépendances sont installer il suffit d'accedez a l'url de la page.
 
-#####http://localhost:PORT/jestimo-lonelypage-sass-node
+
+**3. Ouverture de la page**
+
+Assurez-vous que votre serveur sois bien allumer et acceder a cet url:
+```bash
+http://localhost:PORT/jestimo-lonelypage-sass-node
+```
