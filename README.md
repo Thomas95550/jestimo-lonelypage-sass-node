@@ -19,9 +19,11 @@ Telecharger via GIT et installation via node
  
 **1. Etape cloner le projet**
  
-Cloner le directement à racine de votre `local serveur exemple: wamp`.
+Cloner le directement à racine de votre `serveur local` 
 
-*www dossier du serveur local
+exemple: avec wamp ``$:\www> ``. 
+
+*www est le dossier racine du serveur local wamp
 ```bash
 $:\www> git clone git@github.com:Thomas95550/jestimo-lonelypage-sass-node.git
 ```
