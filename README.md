@@ -10,7 +10,7 @@ Prérequis important
 **Prérequis**
 - ([NodeJS/NPM](https://nodejs.org/en/)) Obligatoire.
 - ([GIT](https://git-scm.com/downloads)) Optionnel.
-- Serveur local pour[Windows](http://www.wampserver.com/).
+- Serveur local pour [Windows](http://www.wampserver.com/).
 - Serveur local pour [MAC/OSX](https://www.mamp.info/en/downloads/).
 - Ou à l'aide de PHP lancez un serveur local via le terminal ou [cmder](http://cmder.net/)) utilisez cet commande: 
 - - ````php -S localhost:8000/````.
@@ -27,11 +27,14 @@ Telecharger via GIT et installation via node
  
 Cloner le directement à la racine de votre `serveur local` 
 
-exemple: avec wamp ``$:\www> ``. 
+**Wamp Windows** / **Mamp MacOsx**
 
-*www est le dossier racine du serveur local wamp
+- **www** est le dossier racine du serveur local **wamp**
+
+- **htdoc** est le dossier racine du serveur local **mamp**
 ```bash
-$:\www> git clone git@github.com:Thomas95550/jestimo-lonelypage-sass-node.git
+$:\www> git clone git@github.com:Thomas95550/jestimo-lonelypage-sass-node.git       <- windows
+$:\htdocs> git clone git@github.com:Thomas95550/jestimo-lonelypage-sass-node.git    <- macOsx
 ```
 
 **2. Installez les packages/dépendances** 
@@ -39,13 +42,15 @@ $:\www> git clone git@github.com:Thomas95550/jestimo-lonelypage-sass-node.git
 Entrer dans le dossier du projet,
  
 ```bash
-$:\www> cd jestimo-lonelypage-sass-node
+$:\www> cd jestimo-lonelypage-sass-node         <- windows
+$:\htdocs> cd jestimo-lonelypage-sass-node      <- macOsx
 ```
  
  puis executez via `node` la commande suivante:
 
 ```bash
-$:\www\jestimo-lonelypage-sass-node> npm install
+$:\www\jestimo-lonelypage-sass-node> npm install         <- windows
+$:\htdocs\jestimo-lonelypage-sass-node> npm install      <- macOsx
 ```
 
 Les dependances sont installées.
@@ -69,7 +74,8 @@ En cliquant  [ici](https://github.com/Thomas95550/jestimo-lonelypage-sass-node/a
 
 dézipper le à la racine de votre serveur local exemple `wamp`, l'architecture dois être représenter de la sorte.
 ```bash
-$:\www\jestimo-lonelypage-sass-node>
+$:\www\jestimo-lonelypage-sass-node>         <- windows
+$:\htdocs\jestimo-lonelypage-sass-node>      <- macOsx
 ```
 
 **2. Installez les packages/dépendances** 
@@ -77,7 +83,8 @@ $:\www\jestimo-lonelypage-sass-node>
 Entrer dans le dossier du projet puis executez via `node` la commande suivante:
 
 ```bash
-$:\www\jestimo-lonelypage-sass-node> npm install
+$:\www\jestimo-lonelypage-sass-node> npm install         <- windows
+$:\htdocs\jestimo-lonelypage-sass-node> npm install      <- macOsx
 ```
 
 Les dependances sont installées.
