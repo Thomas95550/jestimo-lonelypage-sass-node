@@ -23,7 +23,7 @@ Cloner le directement à la racine de votre `serveur local`
 
 - **www** est le dossier racine du serveur local **wamp**
 
-- **htdoc** est le dossier racine du serveur local **mamp**
+- **htdocs** est le dossier racine du serveur local **mamp**
 
 ```bash
 $:\www> git clone git@github.com:Thomas95550/jestimo-lonelypage-sass-node.git       <- windows
@@ -83,7 +83,7 @@ En cliquant  [ici](https://github.com/Thomas95550/jestimo-lonelypage-sass-node/a
 Il vous faudra alors le dézipper sur le bon serveur,
 **Wamp Windows** / **Mamp MacOsx** 
 - **www** est le dossier racine du serveur local **wamp**
-- **htdoc** est le dossier racine du serveur local **mamp**
+- **htdocs** est le dossier racine du serveur local **mamp**
 
 ```bash
 $:\www\jestimo-lonelypage-sass-node>                    <- windows
