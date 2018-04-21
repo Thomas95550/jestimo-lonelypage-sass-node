@@ -1,15 +1,20 @@
 Jestimo - LonelyPage
 ======================
+Il est obliger d'avoir node d'installer sur sont ordinateur, les liens seront dans les prérequis
 
-Installation du projet via git suivez jusqu'au bout, si téléchargé sous zip il vous faudra vous rendre directement à l'installation des packages / dépendencies (si vous avez node).
+Installation du projet via git suivez jusqu'au bout, si téléchargé sous zip il vous faudra vous rendre directement à l'installation des packages / dépendences voir [*prérequis]().
 
-Prérequis
+Prérequis important
 -----------
 
 **Prérequis**
-- Lien vers [NodeJS/NPM](https://nodejs.org/en/) | Obligatoire
-- Lien vers [GIT](https://git-scm.com/downloads) | Optionnel
-- Un serveur local [wamp](http://www.wampserver.com/) | Ou php d'installer ( lancez un serveur local a l'aide de cet commande: ``php -S localhost:8888/`` votre port sera alors 8888)
+- ([NodeJS/NPM](https://nodejs.org/en/)) Obligatoire
+- ([GIT](https://git-scm.com/downloads)) Optionnel
+- Un serveur local[Windows](http://www.wampserver.com/)
+- - [MAC/OSX](https://www.mamp.info/en/downloads/) 
+- - Ou à l'aide de PHP lancez un serveur local via le terminal ou [cmder](http://cmder.net/)) utiliser cet commande: 
+- - ````php -S localhost:8000/````
+- - votre port sera alors 8000 et votre serveur sera à l'adresse de ````http://localhost:8000/````
 - Une console | [cmder](http://cmder.net/) | Emulateur de terminal (Optionnel\ Invitée de commande sinon)
 
 Telecharger via GIT et installation via node
