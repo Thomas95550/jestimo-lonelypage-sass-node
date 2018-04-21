@@ -1,4 +1,4 @@
-Jestimo - Prérequis - installation
+Jestimo - Prérequis - Installation
 ======================
 
 **Prérequis**
