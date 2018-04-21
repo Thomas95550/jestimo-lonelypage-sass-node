@@ -67,7 +67,8 @@ Ou réferer vous à ci-dessous:
 ```bash
 http://localhost/jestimo-lonelypage-sass-node        <-- serveur wamp
 http://localhost:PORT/jestimo-lonelypage-sass-node   <-- PORT=8888 (mamp basic port) 
-http://localhost:8000/ -|> $:htdocs\jestimo-lonelypage-sass-node> Php -S localhost:8000 le serveur est à la racine du projet
+http://localhost:8000/ 
+-> $:htdocs\jestimo-lonelypage-sass-node> Php -S localhost:8000 // le serveur est à la racine du projet
 ```
 
 Télecharger et installer via node
@@ -77,10 +78,24 @@ Télecharger et installer via node
 
 En cliquant  [ici](https://github.com/Thomas95550/jestimo-lonelypage-sass-node/archive/master.zip)
 
-dézipper le à la racine de votre serveur local exemple `wamp`, l'architecture dois être représenter de la sorte.
+
+Il vous faudra alors le dézipper sur le bon serveur,
+**Wamp Windows** / **Mamp MacOsx** 
+
+- **www** est le dossier racine du serveur local **wamp**
+
+- **htdoc** est le dossier racine du serveur local **mamp**
+
+
 ```bash
-$:\www\jestimo-lonelypage-sass-node>         <- windows
-$:\htdocs\jestimo-lonelypage-sass-node>      <- macOsx
+$:\www\jestimo-lonelypage-sass-node>                    <- windows
+$:\htdocs\jestimo-lonelypage-sass-node>                 <- macOsx
+```
+**Php -S méthode**
+
+ - dézipper le projet, puis lancez le serveur
+```bash
+$:\jestimo-lonelypage-sass-node> Php -S localhost:8000  <- Serveur local
 ```
 
 **2. Installez les packages/dépendances** 
@@ -90,6 +105,7 @@ Entrer dans le dossier du projet puis executez via `node` la commande suivante:
 ```bash
 $:\www\jestimo-lonelypage-sass-node> npm install         <- windows
 $:\htdocs\jestimo-lonelypage-sass-node> npm install      <- macOsx
+$:\jestimo-lonelypage-sass-node> npm install     <- Serveur local, nécessite 2 terminal
 ```
 
 Les dependances sont installées.
@@ -107,5 +123,6 @@ Ou réferer vous à ci-dessous:
 ```bash
 http://localhost/jestimo-lonelypage-sass-node        <-- serveur wamp
 http://localhost:PORT/jestimo-lonelypage-sass-node   <-- PORT=8888 (mamp basic port) PORT=8000 (php -S localhost:8000) 
-http://localhost:8000/ -|> $:htdocs\jestimo-lonelypage-sass-node> Php -S localhost:8000 le serveur est à la racine du projet
+http://localhost:8000/ 
+serveur a la racine du projet -> $:htdocs\dossier\jestimo-lonelypage-sass-node>
 ```
