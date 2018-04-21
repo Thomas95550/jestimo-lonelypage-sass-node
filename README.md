@@ -13,16 +13,13 @@ Telecharger via GIT et installation via node
 --------------------
 **Clonage du projet**.
 
-- L'installation via git nécessite [GIT](https://git-scm.com/downloads) 
+ L'installation via git nécessite [GIT](https://git-scm.com/downloads) 
  
 **1. Etape clonez le projet**
- 
-Cloner le directement à la racine de votre `serveur local` 
+- Clonez le directement à la racine de votre `serveur local` réspectif.
 
 **Wamp Windows** / **Mamp MacOsx**
-
 - **www** est le dossier racine du serveur local **wamp**
-
 - **htdocs** est le dossier racine du serveur local **mamp**
 
 ```bash
@@ -30,7 +27,7 @@ $:\www> git clone git@github.com:Thomas95550/jestimo-lonelypage-sass-node.git   
 $:\htdocs> git clone git@github.com:Thomas95550/jestimo-lonelypage-sass-node.git    <- macOsx
 ```
 
-**Serveur local Php**
+**Création d'un serveur local php à la racine du dossier de projet**
  - Dézipper le projet.
  - Entrez dedans puis lancez le serveur.
  - ```$:\> cd jestimo-lonelypage-sass-node/```
@@ -39,7 +36,7 @@ $:\htdocs> git clone git@github.com:Thomas95550/jestimo-lonelypage-sass-node.git
 
 **2. Installez les packages/dépendances** 
 
-- Entrer dans le dossier du projet,
+- Entrez dans le dossier du projet,
  
 ```bash 
 $:\www> cd jestimo-lonelypage-sass-node         <- windows
@@ -79,8 +76,8 @@ Télecharger et installer via node
 
 En cliquant  [ici](https://github.com/Thomas95550/jestimo-lonelypage-sass-node/archive/master.zip)
 
+Il vous faudra alors le dézipper à la racine de votre `serveur local` réspectif.
 
-Il vous faudra alors le dézipper sur le bon serveur,
 **Wamp Windows** / **Mamp MacOsx** 
 - **www** est le dossier racine du serveur local **wamp**
 - **htdocs** est le dossier racine du serveur local **mamp**
