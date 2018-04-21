@@ -58,11 +58,16 @@ Il suffit d'accéder a l'url de la page.
 
 **3. Ouverture de la page**
 
-Assurez-vous que votre serveur sois bien allumer et acceder a cet url: [wampTestUrl](http://localhost/jestimo-lonelypage-sass-node)
+Assurez-vous que votre serveur sois bien allumer et acceder à votre serveur: 
+- [wampUrl](http://localhost/jestimo-lonelypage-sass-node)
+- [mampUrl](http://localhost:8888/jestimo-lonelypage-sass-node)
+- [PhpServerUrl](http://localhost:8000/)
+
+Ou réferer vous à ci-dessous:
 ```bash
-http://localhost/jestimo-lonelypage-sass-node
-ou pour un port spécifique
-http://localhost:PORT/jestimo-lonelypage-sass-node
+http://localhost/jestimo-lonelypage-sass-node        <-- serveur wamp
+http://localhost:PORT/jestimo-lonelypage-sass-node   <-- PORT=8888 (mamp basic port) 
+http://localhost:8000/ -|> $:htdocs\jestimo-lonelypage-sass-node> Php -S localhost:8000 le serveur est à la racine du projet
 ```
 
 Télecharger et installer via node
@@ -93,9 +98,14 @@ Il suffit d'accéder a l'url de la page.
 
 **3. Ouverture de la page**
 
-Assurez-vous que votre serveur sois bien allumer et acceder a cet url: [wampTestUrl](http://localhost/jestimo-lonelypage-sass-node)
+Assurez-vous que votre serveur sois bien allumer et acceder à votre serveur: 
+- [wampUrl](http://localhost/jestimo-lonelypage-sass-node)
+- [mampUrl](http://localhost:8888/jestimo-lonelypage-sass-node)
+- [PhpServerUrl](http://localhost:8000/)
+
+Ou réferer vous à ci-dessous:
 ```bash
-http://localhost/jestimo-lonelypage-sass-node
-ou pour un port spécifique
-http://localhost:PORT/jestimo-lonelypage-sass-node
+http://localhost/jestimo-lonelypage-sass-node        <-- serveur wamp
+http://localhost:PORT/jestimo-lonelypage-sass-node   <-- PORT=8888 (mamp basic port) PORT=8000 (php -S localhost:8000) 
+http://localhost:8000/ -|> $:htdocs\jestimo-lonelypage-sass-node> Php -S localhost:8000 le serveur est à la racine du projet
 ```
