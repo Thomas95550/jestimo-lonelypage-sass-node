@@ -12,10 +12,10 @@ Prérequis important
 - ([GIT](https://git-scm.com/downloads)) Optionnel
 - Un serveur local[Windows](http://www.wampserver.com/)
 - - [MAC/OSX](https://www.mamp.info/en/downloads/) 
-- - Ou à l'aide de PHP lancez un serveur local via le terminal ou [cmder](http://cmder.net/)) utiliser cet commande: 
+- - Ou à l'aide de PHP lancez un serveur local via le terminal ou [cmder](http://cmder.net/)) utilisez cet commande: 
 - - ````php -S localhost:8000/````
 - - votre port sera alors 8000 et votre serveur sera à l'adresse de ````http://localhost:8000/````
-- Une console | [cmder](http://cmder.net/) | Emulateur de terminal (Optionnel\ Terminal)
+- ([cmder](http://cmder.net/)) Emulateur de console/terminal optionnel
 
 Telecharger via GIT et installation via node
 --------------------
