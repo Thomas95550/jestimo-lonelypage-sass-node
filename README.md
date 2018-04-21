@@ -15,8 +15,7 @@ Telecharger via GIT et installation via node
 --------------------
 **Clonage du projet**.
 
--L'installation via git nécessite [GIT](https://git-scm.com/downloads)
-Adresse disponible ici: [Projet](https://github.com/Thomas95550/jestimo-lonelypage-sass-node)
+- L'installation via git nécessite [GIT](https://git-scm.com/downloads) 
  
 **1. Etape cloner le projet**
  
