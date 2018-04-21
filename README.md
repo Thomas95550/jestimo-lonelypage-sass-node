@@ -1,8 +1,5 @@
-Jestimo - LonelyPage
+Jestimo - Prérequis - installation
 ======================
-
-#Prérequis important
-
 
 **Prérequis**
 - ([NodeJS/NPM](https://nodejs.org/en/)) Obligatoire.
