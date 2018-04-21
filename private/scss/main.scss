@@ -37,10 +37,11 @@ ul {
     }
   }
 }
-
 .no-gutters>.col, .no-gutters>[class*=col-] {
   padding-right: 5px;
-  padding-left: 5px;  }
+  padding-left: 5px;
+  margin-top: 5px;
+  margin-bottom: 5px; }
 #central-container {
   min-height: 55vh;
   display: flex;
@@ -52,14 +53,19 @@ ul {
   background-color: $primary-color;
   margin: 0 auto;
   left: auto;
+  img { width: 100% }
   span {
-      text-align: center;
-      color: white;
-      display: block;
-      font-size: 20px;
-    }
+    text-align: center;
+    color: white;
+    display: block;
+    font-size: 20px;
+  }
 }
-
+form {
+  .row.no-gutters{
+    margin-top: 15px;
+  }
+}
 .toKnow {
   font-size: 12px;
   font-style: italic;

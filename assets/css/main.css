@@ -11,7 +11,7 @@ ul {
       margin-top: 10px; }
   ul li.footer-society {
     text-align: left; }
-img { width: 100%;}
+
 .factory {
   background: #f9fffc;
   border-radius: 0;
@@ -23,7 +23,9 @@ img { width: 100%;}
 
 .no-gutters > .col, .no-gutters > [class*=col-] {
   padding-right: 5px;
-  padding-left: 5px; }
+  padding-left: 5px;
+  margin-top: 5px;
+  margin-bottom: 5px; }
 
 #central-container {
   min-height: 55vh;
@@ -37,11 +39,16 @@ img { width: 100%;}
   background-color: #424242;
   margin: 0 auto;
   left: auto; }
+  #layout-background-animated img {
+    width: 100%; }
   #layout-background-animated span {
     text-align: center;
     color: white;
     display: block;
     font-size: 20px; }
+
+form .row.no-gutters {
+  margin-top: 15px; }
 
 .toKnow {
   font-size: 12px;
