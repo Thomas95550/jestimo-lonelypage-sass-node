@@ -62,7 +62,7 @@ $:\www\jestimo-lonelypage-sass-node>
 Entrer dans le dossier du projet puis executer via `node` la commande suivante:
 
 ```bash
-$:\www\>
+$:\www>
 $:\www\jestimo-lonelypage-sass-node> npm install
 ```
 
