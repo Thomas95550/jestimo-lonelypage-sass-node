@@ -1,12 +1,10 @@
 $font-stack: 'Open Sans', sans-serif;
 $primary-color: #424242;
-$secondary-color: #00b9e4;
-$tertiary-color: #60C2D1;
+$secondary-color: #60C2D1;
 
 html, body {
   font-family: $font-stack;
-  font-size: 0.9rem;
-}
+  font-size: 0.9rem;  }
 
 ul {
   padding: 0;
@@ -42,22 +40,24 @@ ul {
 
 .no-gutters>.col, .no-gutters>[class*=col-] {
   padding-right: 5px;
-  padding-left: 5px;
-}
-
+  padding-left: 5px;  }
 #central-container {
   min-height: 55vh;
   display: flex;
   align-items: center;
-  justify-content: center;
-}
-
+  justify-content: center;  }
 #layout-background-animated {
   width: 100%;
   min-height: 30vh;
   background-color: $primary-color;
   margin: 0 auto;
   left: auto;
+  span {
+      text-align: center;
+      color: white;
+      display: block;
+      font-size: 20px;
+    }
 }
 
 .toKnow {
@@ -65,35 +65,23 @@ ul {
   font-style: italic;
   margin-top: 10px;
   margin-bottom: 10px;
-  display: block;
-}
-#coordonnees_agence .col-12 {
-  text-align: center;
-}
-
-.custom-control-inline input {
-  margin-top: 15px;
-}
-#immeuble {
-  padding: 0;
-}
-.form-control {
-  margin-top: 10px;
-}
+  display: block;  }
+#coordonnees_agence .col-12 {  text-align: center;  }
+#immeuble {  padding: 0;  }
 .breadcrumb-item {
   &:before {
     display: inline-block;
     padding-right: .3rem !important;
-    color: #6c757d;
-  }
+    color: #6c757d;  }
 }
 
-.auto-margin {
-  margin: 0 auto;
-}
-
+.auto-margin {  margin: 0 auto;  }
 .btn {
   border-radius: 0;
+  .contact {
+    width: 163px;
+    text-align: center;
+    margin-top: 15px;  }
 }
 
 .bordered-animated {
@@ -101,42 +89,21 @@ ul {
   width: 0;
   border-bottom: 1px solid white;
   margin: 0 auto;
-  margin-top: 15px;
-}
-
+  margin-top: 15px;  }
 #footer-container {
   .row {
-    background-color: $tertiary-color;
-    margin-top: 4vh;
-  }
+    background-color: $secondary-color;
+    margin-top: 4vh;  }
   .col-md-4 img {
-    float: right;
-  }
+    float: right;  }
 }
 
-.btn.contact {
-  width: 163px;
-  text-align: center;
-  margin-top: 15px;
-}
-
-.border {
-  border: 1px solid red;
-}
-
-.breadcrumb {
-  background-color: inherit !important;
-}
-
+.breadcrumb {  background-color: inherit !important;  }
 select, input {
   height: 30px !important;
-  margin-right: 10px;
-}
-
+  margin-right: 10px;  }
 select {
   padding: 0 !important;
   padding-left: 6px;
-  padding-right: 6px;
-}
-
+  padding-right: 6px;  }
 @import "allMedia.scss";
