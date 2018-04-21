@@ -120,7 +120,7 @@ Assurez-vous que votre serveur sois bien allumer et acceder à votre serveur:
 Ou réferer vous à ci-dessous:
 ```bash
 http://localhost/jestimo-lonelypage-sass-node        <-- serveur wamp
-http://localhost:PORT/jestimo-lonelypage-sass-node   <-- PORT=8888 (mamp basic port) PORT=8000 (php -S localhost:8000) 
+http://localhost:PORT/jestimo-lonelypage-sass-node   <-- PORT=8888 (mamp basic port) 
 http://localhost:8000/                               <-- Serveur local   
 -> $:htdocs\jestimo-lonelypage-sass-node> php -S localhost:8000/
 ```
