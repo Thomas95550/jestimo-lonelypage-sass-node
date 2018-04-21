@@ -51,7 +51,7 @@ $:\htdocs> cd jestimo-lonelypage-sass-node      <- macOsx
 ```bash
 $:\www\jestimo-lonelypage-sass-node> npm install         <- windows
 $:\htdocs\jestimo-lonelypage-sass-node> npm install      <- macOsx
-$:\jestimo-lonelypage-sass-node>npm install      <- Serveur local
+$:\jestimo-lonelypage-sass-node>npm install      <- Nouveau terminal - Serveur local Php
 ```
 
 Les dependances sont installées.
@@ -103,7 +103,7 @@ Entrer dans le dossier du projet puis executez via `node` la commande suivante:
 ```bash
 $:\www\jestimo-lonelypage-sass-node> npm install         <- windows
 $:\htdocs\jestimo-lonelypage-sass-node> npm install      <- macOsx
-$:\jestimo-lonelypage-sass-node> npm install     <- Nouveau terminal
+$:\jestimo-lonelypage-sass-node> npm install     <- Nouveau terminal - Serveur local Php
 ```
 
 Les dependances sont installées.
