@@ -1,6 +1,10 @@
 Jestimo - Prérequis - Installation
 ======================
 
+#Test Markup Validation Service
+- Html validator [lien](https://validator.w3.org/#validate_by_input)
+- Copie du fichier index.html dans le champs du site.
+
 **Prérequis**
 - ([NodeJS/NPM](https://nodejs.org/en/)) Obligatoire.
 - ([GIT](https://git-scm.com/downloads)) Optionnel.
@@ -8,6 +12,12 @@ Jestimo - Prérequis - Installation
 - Serveur local pour [MAC/OSX](https://www.mamp.info/en/downloads/).
 - Ou à l'aide de PHP lancez un serveur local via un terminal.
 - ([cmder](http://cmder.net/)) Emulateur de terminal optionnel.
+
+#Technologie utiliser
+- Préprocesseur : **scss** 
+- **node** pour generer automatiquement mon css a partir de mon fichier scss
+- **Bootstrap**
+
 
 Telecharger via GIT et installation via node
 --------------------
