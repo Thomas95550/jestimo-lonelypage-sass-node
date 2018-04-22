@@ -21,7 +21,7 @@ Test W3C CSS Validation Service
 
 **Technologie utiliser**
 - Préprocesseur : **scss** 
-- **node** pour generer automatiquement mon css a partir de mon fichier scss
+- **node** pour générer automatiquement mon css à partir de mon fichier scss
 - **Bootstrap**
 
 
@@ -31,7 +31,7 @@ Telecharger via GIT et installation via node
 
  L'installation via git nécessite [GIT](https://git-scm.com/downloads) 
  
-**1. Etape clonez le projet**
+**1. étape clonez le projet : respectif**
 - Clonez le directement à la racine de votre `serveur local` réspectif.
 
 **Wamp Windows** / **Mamp MacOsx**
@@ -74,7 +74,7 @@ Il suffit d'accéder a l'url de la page.
 
 **3. Ouverture de la page**
 
-Assurez-vous que votre serveur sois bien allumer et acceder à votre serveur: 
+Assurez-vous que votre serveur soit bien allumé puis accéder à l'url votre serveur:
 - [wampUrl](http://localhost/jestimo-lonelypage-sass-node)
 - [mampUrl](http://localhost:8888/jestimo-lonelypage-sass-node)
 - [PhpServerUrl](http://localhost:8000/)
@@ -113,7 +113,7 @@ $:\htdocs\jestimo-lonelypage-sass-node>                 <- macOsx
 - Ouvrez un nouveau terminal pour la suite.
 **2. Installez les packages/dépendances** 
 
-Entrer dans le dossier du projet puis executez via `node` la commande suivante:
+Entrez dans le dossier du projet puis executez via `node` la commande suivante:
 
 ```bash
 $:\www\jestimo-lonelypage-sass-node> npm install         <- windows
@@ -127,7 +127,7 @@ Il suffit d'accéder a l'url de la page.
 
 **3. Ouverture de la page**
 
-Assurez-vous que votre serveur sois bien allumer et acceder à votre serveur: 
+Assurez-vous que votre serveur soit bien allumé puis accéder à l'url votre serveur:
 - [wampUrl](http://localhost/jestimo-lonelypage-sass-node)
 - [mampUrl](http://localhost:8888/jestimo-lonelypage-sass-node)
 - [PhpServerUrl](http://localhost:8000/)
