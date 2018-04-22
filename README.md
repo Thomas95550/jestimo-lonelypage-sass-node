@@ -79,7 +79,7 @@ Assurez-vous que votre serveur soit bien allumé puis accéder à l'url votre se
 - [mampUrl](http://localhost:8888/jestimo-lonelypage-sass-node)
 - [PhpServerUrl](http://localhost:8000/)
 
-Ou réferer vous à ci-dessous:
+Ou référez vous à:
 ```bash
 http://localhost/jestimo-lonelypage-sass-node        <-- serveur wamp
 http://localhost:PORT/jestimo-lonelypage-sass-node   <-- PORT=8888 (mamp basic port) 
@@ -132,7 +132,7 @@ Assurez-vous que votre serveur soit bien allumé puis accéder à l'url votre se
 - [mampUrl](http://localhost:8888/jestimo-lonelypage-sass-node)
 - [PhpServerUrl](http://localhost:8000/)
 
-Ou réferer vous à ci-dessous:
+Ou référez vous à:
 ```bash
 http://localhost/jestimo-lonelypage-sass-node        <-- serveur wamp
 http://localhost:PORT/jestimo-lonelypage-sass-node   <-- PORT=8888 (mamp basic port) 
