@@ -80,7 +80,6 @@ form {
     padding-right: .3rem !important;
     color: #6c757d;  }
 }
-
 .auto-margin {  margin: 0 auto;  }
 .btn {
   border-radius: 0;
@@ -90,6 +89,10 @@ form {
     margin-top: 15px;  }
 }
 
+#form-validation {
+  display: block;
+  margin: 0 auto;  }
+.right { float: right; }
 .bordered-animated {
   transition: all 1s ease;
   width: 0;

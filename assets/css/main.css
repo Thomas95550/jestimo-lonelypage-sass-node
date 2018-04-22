@@ -78,6 +78,13 @@ form .row.no-gutters {
     text-align: center;
     margin-top: 15px; }
 
+#form-validation {
+  display: block;
+  margin: 0 auto; }
+
+.right {
+  float: right; }
+
 .bordered-animated {
   transition: all 1s ease;
   width: 0;
